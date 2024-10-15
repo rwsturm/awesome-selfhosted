@@ -1027,7 +1027,7 @@ The list of contributors can be found below
     10	cave beat <cave@cavebeat.org>
     9	Joubert RedRat <eu+github@redrat.com.br>
     8	CooperBarrett <anthony.lhuissier@openmailbox.org>
-    7	Andrew Peng <pengc99@gmail.com>
+    7	Andrew Peng 
     7	Andrew Rylatt <AndyR207@users.noreply.github.com>
     7	Hammy Havoc <hammy@splitanatom.com>
     7	Thomas Dalichow <info@thomasdalichow.de>
